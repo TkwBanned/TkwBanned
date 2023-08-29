@@ -42,7 +42,7 @@
     "disabledWhenInvalid": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 24,
-    "originalBottomRow": 110,
+    "originalBottomRow": 112,
     "buttonVariant": "SECONDARY",
     "placement": "CENTER"
 }

@@ -14,7 +14,7 @@
     "parentColumnSpace": 6.84375,
     "dynamicTriggerPathList": [],
     "imageShape": "RECTANGLE",
-    "leftColumn": 9,
+    "leftColumn": 8,
     "dynamicBindingPathList": [{"key": "borderRadius"}],
     "defaultImage": "https://assets.appsmith.com/widgets/default.png",
     "key": "5f58gzzg77",
@@ -32,7 +32,9 @@
     "mobileTopRow": 106,
     "maxZoomLevel": 1,
     "enableDownload": false,
+    "originalTopRow": 106,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 5,
+    "originalBottomRow": 112,
     "enableRotation": false
 }
