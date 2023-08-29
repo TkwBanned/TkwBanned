@@ -4,7 +4,7 @@
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.0e730017fc6034faa535c7c3ff261daa.svg",
     "displayName": "Number Slider",
     "tooltipAlwaysOn": false,
-    "labelText": "Esta A Quantos Dias Banidos ? ",
+    "labelText": "Esta A Quantos Dias Banido ? ",
     "topRow": 73,
     "searchTags": ["range"],
     "bottomRow": 81,
