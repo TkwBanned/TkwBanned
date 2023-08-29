@@ -15,7 +15,7 @@
     "overflow": "NONE",
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "dynamicTriggerPathList": [],
-    "leftColumn": 10,
+    "leftColumn": 8,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -26,7 +26,7 @@
     "text": "LOGAR NO PAINEL DE BAN",
     "key": "in1kajj8q2",
     "isDeprecated": false,
-    "rightColumn": 57,
+    "rightColumn": 55,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "flsalkw7xq",
