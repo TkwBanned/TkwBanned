@@ -22,7 +22,7 @@
     "leftColumn": 19,
     "dynamicBindingPathList": [{"key": "borderRadius"}],
     "text": "Usuario: Tkw Saturny",
-    "isDisabled": true,
+    "isDisabled": false,
     "key": "uyl1r5a1q6",
     "isDeprecated": false,
     "rightColumn": 53,
