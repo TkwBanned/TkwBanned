@@ -8,7 +8,7 @@
     "bottomRow": 32,
     "parentRowSpace": 10,
     "labelWidth": 5,
-    "defaultDialCode": "+34",
+    "defaultDialCode": "+55",
     "autoFocus": false,
     "type": "PHONE_INPUT_WIDGET",
     "hideCard": false,
