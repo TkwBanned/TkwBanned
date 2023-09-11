@@ -33,7 +33,7 @@
     "dynamicHeight": "FIXED",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
     "widgetId": "t67vjpmb92",
-    "allowDialCodeChange": false,
+    "allowDialCodeChange": true,
     "minWidth": 450,
     "isVisible": true,
     "label": "",
