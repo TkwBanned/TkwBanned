@@ -25,10 +25,19 @@
   "publishedAppLayout": {
     "type": "MOBILE"
   },
-  "unpublishedCustomJSLibs": [],
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
+    }
+  ],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
+  "embedSetting": {
+    "height": "720px",
+    "width": "1024px",
+    "showNavigationBar": false
+  },
   "collapseInvisibleWidgets": true,
   "isManualUpdate": false,
   "deleted": false
