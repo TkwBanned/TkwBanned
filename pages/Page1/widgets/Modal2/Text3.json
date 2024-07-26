@@ -1,57 +1,52 @@
 {
   "animateLoading": true,
+  "borderColor": "#9f0abd",
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "borderWidth": "2\n",
   "bottomRow": 4,
-  "displayName": "Text",
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
     },
     {
-      "key": "fontFamily"
+      "key": "borderRadius"
     },
     {
-      "key": "borderRadius"
+      "key": "textColor"
     }
   ],
   "dynamicHeight": "AUTO_HEIGHT",
   "dynamicTriggerPathList": [],
-  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontFamily": "Montserrat",
   "fontSize": "1.25rem",
   "fontStyle": "BOLD",
-  "hideCard": false,
-  "iconSVG": "https://appcdn.appsmith.com/static/media/icon.a47d6d5dbbb718c4dc4b2eb4f218c1b7.svg",
-  "isDeprecated": false,
   "isLoading": false,
   "isVisible": true,
-  "key": "in1kajj8q2",
-  "leftColumn": 8,
+  "key": "e4ekzkiyjq",
+  "leftColumn": 6,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 4,
   "minWidth": 450,
-  "originalBottomRow": 6,
+  "mobileBottomRow": 5,
+  "mobileLeftColumn": 1,
+  "mobileRightColumn": 41,
+  "mobileTopRow": 1,
+  "needsErrorInfo": false,
+  "originalBottomRow": 4,
   "originalTopRow": 0,
   "overflow": "NONE",
-  "parentId": "iwv18a4763",
+  "parentId": "ouy7usm84g",
   "renderMode": "CANVAS",
-  "rightColumn": 55,
-  "searchTags": [
-    "typography",
-    "paragraph",
-    "label"
-  ],
+  "responsiveBehavior": "fill",
+  "rightColumn": 59,
   "shouldTruncate": false,
-  "tags": [
-    "Suggested",
-    "Content"
-  ],
-  "text": "LOGAR NO PAINEL DE BAN",
-  "textAlign": "LEFT",
-  "textColor": "#231F20",
+  "text": "COMPRAR PAINEL ",
+  "textAlign": "CENTER",
+  "textColor": "{{appsmith.theme.colors.primaryColor}}",
   "topRow": 0,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
-  "widgetId": "flsalkw7xq",
-  "widgetName": "Text1"
+  "widgetId": "va5ui1s4ug",
+  "widgetName": "Text3"
 }

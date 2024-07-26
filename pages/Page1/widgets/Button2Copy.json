@@ -1,9 +1,9 @@
 {
   "animateLoading": true,
   "borderRadius": "0.375rem",
-  "bottomRow": 23,
+  "bottomRow": 32,
   "boxShadow": "none",
-  "buttonColor": "#18181b",
+  "buttonColor": "#9f0abd",
   "buttonVariant": "SECONDARY",
   "disabledWhenInvalid": false,
   "displayName": "Button",
@@ -20,18 +20,25 @@
   "isDisabled": false,
   "isLoading": false,
   "isVisible": true,
-  "key": "k84v8ktxal",
-  "leftColumn": 23,
+  "key": "dp1m95qyvb",
+  "leftColumn": 5,
   "minWidth": 120,
+  "mobileBottomRow": 28,
+  "mobileLeftColumn": 23,
+  "mobileRightColumn": 39,
+  "mobileTopRow": 24,
   "onClick": "{{showModal('Modal1');}}",
-  "parentColumnSpace": 10.671875,
+  "originalBottomRow": 26,
+  "originalTopRow": 22,
+  "parentColumnSpace": 5.484375,
   "parentId": "0",
   "parentRowSpace": 10,
   "placement": "CENTER",
   "recaptchaType": "V3",
   "renderMode": "CANVAS",
   "resetFormOnClick": false,
-  "rightColumn": 40,
+  "responsiveBehavior": "hug",
+  "rightColumn": 59,
   "searchTags": [
     "click",
     "submit"
@@ -39,10 +46,10 @@
   "tags": [
     "Buttons"
   ],
-  "text": "ENTRAR",
-  "topRow": 19,
+  "text": "ACESSAR O PAINEL",
+  "topRow": 28,
   "type": "BUTTON_WIDGET",
   "version": 1,
-  "widgetId": "attu8m6wg2",
-  "widgetName": "Button1"
+  "widgetId": "xilwajet2d",
+  "widgetName": "Button2Copy"
 }

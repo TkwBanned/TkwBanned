@@ -1,46 +1,46 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 47,
+  "bottomRow": 11,
   "boxShadow": "none",
-  "buttonColor": "#18181b",
-  "buttonVariant": "SECONDARY",
+  "buttonColor": "{{appsmith.theme.colors.backgroundColor}}",
+  "buttonVariant": "PRIMARY",
   "disabledWhenInvalid": false,
   "displayName": "Button",
   "dynamicBindingPathList": [
     {
       "key": "borderRadius"
-    }
-  ],
-  "dynamicTriggerPathList": [
+    },
     {
-      "key": "onClick"
+      "key": "buttonColor"
     }
   ],
+  "dynamicTriggerPathList": [],
   "hideCard": false,
+  "iconAlign": "left",
+  "iconName": "person",
   "iconSVG": "https://appcdn.appsmith.com/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",
   "isDefaultClickDisabled": true,
   "isDeprecated": false,
   "isDisabled": false,
   "isLoading": false,
   "isVisible": true,
-  "key": "uyl1r5a1q6",
-  "leftColumn": 9,
+  "key": "dp1m95qyvb",
+  "leftColumn": 0,
   "minWidth": 120,
-  "mobileBottomRow": 47,
-  "mobileLeftColumn": 30,
-  "mobileRightColumn": 46,
-  "mobileTopRow": 43,
-  "onClick": "{{navigateTo('https://t.me/saiki_178', {}, 'SAME_WINDOW');}}",
-  "parentColumnSpace": 6.84375,
-  "parentId": "0",
+  "mobileBottomRow": 15,
+  "mobileLeftColumn": 10,
+  "mobileRightColumn": 26,
+  "mobileTopRow": 11,
+  "parentColumnSpace": 4.5757812499999995,
+  "parentId": "iwv18a4763",
   "parentRowSpace": 10,
   "placement": "CENTER",
   "recaptchaType": "V3",
   "renderMode": "CANVAS",
   "resetFormOnClick": false,
   "responsiveBehavior": "hug",
-  "rightColumn": 55,
+  "rightColumn": 5,
   "searchTags": [
     "click",
     "submit"
@@ -48,10 +48,10 @@
   "tags": [
     "Buttons"
   ],
-  "text": "DONO DO PAINEL !",
-  "topRow": 42,
+  "text": "Submit",
+  "topRow": 6,
   "type": "BUTTON_WIDGET",
   "version": 1,
-  "widgetId": "hf0ackmcuo",
+  "widgetId": "wqohtzxgp5",
   "widgetName": "Button5"
 }

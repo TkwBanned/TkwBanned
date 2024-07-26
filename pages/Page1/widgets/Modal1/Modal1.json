@@ -1,13 +1,14 @@
 {
   "animateLoading": true,
+  "backgroundColor": "{{appsmith.theme.colors.backgroundColor}}",
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 232,
+  "bottomRow": 302,
   "boxShadow": "none",
   "canEscapeKeyClose": true,
   "canOutsideClickClose": true,
   "children": [
     {
-      "bottomRow": 200,
+      "bottomRow": 270,
       "canExtend": true,
       "detachFromLayout": true,
       "displayName": "Canvas",
@@ -45,10 +46,14 @@
   "dynamicBindingPathList": [
     {
       "key": "borderRadius"
+    },
+    {
+      "key": "backgroundColor"
     }
   ],
   "dynamicHeight": "AUTO_HEIGHT",
-  "height": 200,
+  "dynamicTriggerPathList": [],
+  "height": 270,
   "hideCard": false,
   "iconSVG": "https://appcdn.appsmith.com/static/media/icon.b374721fa8e1aeab7cf326c2d865506f.svg",
   "isCanvas": true,
@@ -58,7 +63,7 @@
   "leftColumn": 32,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 8,
-  "minHeight": 230,
+  "minHeight": 270,
   "mobileWidthInPercentage": 0,
   "parentColumnSpace": 1,
   "parentId": "0",
