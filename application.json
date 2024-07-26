@@ -1,40 +1,35 @@
 {
+  "appIsExample": false,
+  "appLayout": {
+    "type": "MOBILE"
+  },
+  "applicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    }
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#C2DAF0",
+  "embedSetting": {
+    "height": "720px",
+    "showNavigationBar": false,
+    "width": "1024px"
+  },
+  "evaluationVersion": 2,
+  "icon": "rose",
   "pages": [
     {
       "id": "Page1",
       "isDefault": true
     }
   ],
-  "viewMode": false,
-  "appIsExample": false,
-  "unreadCommentThreads": 0,
+  "unpublishedAppLayout": {
+    "type": "MOBILE"
+  },
   "unpublishedApplicationDetail": {
     "appPositioning": {
       "type": "FIXED"
     }
-  },
-  "color": "#C2DAF0",
-  "icon": "rose",
-  "unpublishedAppLayout": {
-    "type": "MOBILE"
-  },
-  "publishedAppLayout": {
-    "type": "MOBILE"
-  },
-  "unpublishedCustomJSLibs": [
-    {
-      "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
-    }
-  ],
-  "publishedCustomJSLibs": [],
-  "evaluationVersion": 2,
-  "applicationVersion": 2,
-  "embedSetting": {
-    "height": "720px",
-    "width": "1024px",
-    "showNavigationBar": false
-  },
-  "collapseInvisibleWidgets": true,
-  "isManualUpdate": false,
-  "deleted": false
+  }
 }
