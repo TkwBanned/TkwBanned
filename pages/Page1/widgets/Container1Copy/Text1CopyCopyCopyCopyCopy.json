@@ -4,7 +4,7 @@
   "borderColor": "#ff0000",
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
   "borderWidth": "2\n",
-  "bottomRow": 13,
+  "bottomRow": 17,
   "displayName": "Text",
   "dynamicBindingPathList": [
     {
@@ -33,8 +33,8 @@
   "mobileLeftColumn": 12,
   "mobileRightColumn": 28,
   "mobileTopRow": 5,
-  "originalBottomRow": 13,
-  "originalTopRow": 9,
+  "originalBottomRow": 17,
+  "originalTopRow": 13,
   "overflow": "NONE",
   "parentColumnSpace": 6.53125,
   "parentId": "isdhg7p4bx",
@@ -52,13 +52,13 @@
     "Suggested",
     "Content"
   ],
-  "text": "@lirahaxouss TELEGRAM ",
+  "text": "@SimonStags TELEGRAM ",
   "textAlign": "CENTER",
   "textColor": "#f4f4f5",
-  "topRow": 9,
+  "topRow": 13,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
-  "widgetId": "s2wuxo4bfx",
-  "widgetName": "Text1CopyCopyCopyCopy"
+  "widgetId": "uidhi5ojga",
+  "widgetName": "Text1CopyCopyCopyCopyCopy"
 }
