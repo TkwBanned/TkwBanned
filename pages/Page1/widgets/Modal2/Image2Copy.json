@@ -1,9 +1,9 @@
 {
   "animateLoading": true,
-  "borderRadius": "0.375rem",
+  "borderRadius": "1.5rem",
   "bottomRow": 22,
   "boxShadow": "none",
-  "defaultImage": "https://cdn1.cdn-telegram.org/file/HPTQ1KOoW7vKVwGLXTtpcGa4iLQQ7ajXUV9Ak6d6a2Fl-ja4aZjCJRlGxjAdQ4kgVsz-KlFf7wuVhSjXGw3LJw3nCvpyx4pavVMzxcsolfYMDq0mZNwVjFo5vVFNX4YPg9AA3wtG5jVcvVybrE_yyOm12g2PQIB34hJYzO0hVR_L-a7Fo2BR_CNj51Amj66le5q9U-tYwdRC_CyOG-lPF0OJA9FhkghOtMkAHdVrl_UAPB5CJnxEmXmL-iRpFbV8IzcrIew08MjvNjMMtJv2zsGNi1I6pCaZjuCBYEe7ErjtgjGEpOwjBd56G24NX0YP7HMNAvLpaAzE5vkW6uddcA.jpg",
+  "defaultImage": "https://cdn1.cdn-telegram.org/file/U8ypJNylg9SGnC0WQofyrxUrVvohZKQjuLK9hgKh-d3n0fOm4MzsFt93vxKPoYASs18k8PrrWDouBcNZyZdjmaEOtXhPBhdNn0VsnXnIwkx2X4cjS-6b6TS7_852JBa6sq3nwK1Mr-OsCNwHkdkUa9dRNE8nTkfXVA1DgV05ibNplSVKwZe8OQxzflnCFr1VIDhTZV6ZbFXpiBLGp-5vCFBHvCAEFtW7_f-JaiYF9XPW6VALafNQZC2lB3DIv8fvfHUcoFIyYuB7TUS3J5sjQ6kEyxdmSDKMs3x_GqGTMrq5CQFktK08IpswxCCyJUyjyIHjPerLjbNn5PCeqWTQdw.jpg",
   "dynamicBindingPathList": [],
   "dynamicTriggerPathList": [],
   "enableDownload": false,
