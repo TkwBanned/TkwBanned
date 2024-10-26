@@ -1,39 +1,33 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 39,
+  "bottomRow": 8,
   "boxShadow": "none",
-  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "buttonColor": "#ff0000",
   "buttonVariant": "SECONDARY",
   "disabledWhenInvalid": false,
   "dynamicBindingPathList": [
     {
-      "key": "buttonColor"
-    },
-    {
       "key": "borderRadius"
     }
   ],
-  "dynamicTriggerPathList": [
-    {
-      "key": "onClick"
-    }
-  ],
+  "dynamicTriggerPathList": [],
+  "iconAlign": "right",
+  "iconName": "endorsed",
   "isDefaultClickDisabled": true,
   "isDisabled": false,
   "isLoading": false,
   "isVisible": true,
-  "key": "2ly25y49iv",
-  "leftColumn": 26,
+  "key": "03k7pwrlv8",
+  "leftColumn": 0,
   "minWidth": 120,
-  "mobileBottomRow": 11,
-  "mobileLeftColumn": 27,
-  "mobileRightColumn": 43,
-  "mobileTopRow": 7,
+  "mobileBottomRow": 8,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 16,
+  "mobileTopRow": 4,
   "needsErrorInfo": false,
-  "onClick": "{{navigateTo('https://t.me/SimonStags/s/3/', {}, 'SAME_WINDOW');}}",
-  "originalBottomRow": 37,
-  "originalTopRow": 33,
+  "originalBottomRow": 8,
+  "originalTopRow": 4,
   "parentColumnSpace": 6.4921875,
   "parentId": "ouy7usm84g",
   "parentRowSpace": 10,
@@ -43,10 +37,10 @@
   "resetFormOnClick": false,
   "responsiveBehavior": "hug",
   "rightColumn": 64,
-  "text": "TESTE DO PAINEL ( MP3 )",
-  "topRow": 35,
+  "text": "STUNIZLAV SLAVOY",
+  "topRow": 4,
   "type": "BUTTON_WIDGET",
   "version": 1,
-  "widgetId": "shx37j008x",
-  "widgetName": "Button8CopyCopyCopy"
+  "widgetId": "d299zesdkg",
+  "widgetName": "Button9"
 }
