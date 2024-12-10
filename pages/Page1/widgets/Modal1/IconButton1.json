@@ -30,7 +30,7 @@
   "mobileLeftColumn": 2,
   "mobileRightColumn": 6,
   "mobileTopRow": 0,
-  "onClick": "{{showAlert('Ao comprar acesso a esse painel, voce concorda que nao tera reemboloso apos 1 vez de uso,o proprietario do painel nao se responsabiliza caso o painel nao funcione, o usuario esta disposto a estes riscos', '');}}",
+  "onClick": "",
   "parentColumnSpace": 5.0132812499999995,
   "parentId": "iwv18a4763",
   "parentRowSpace": 10,
