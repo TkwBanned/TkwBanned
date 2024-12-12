@@ -21,19 +21,10 @@
     },
     {
       "key": "groupButtons.groupButton3.menuItems.menuItem1.textColor"
-    },
-    {
-      "key": "groupButtons.groupButton3.menuItems.menuItem2.backgroundColor"
-    },
-    {
-      "key": "groupButtons.groupButton3.menuItems.menuItem2.textColor"
     }
   ],
   "dynamicPropertyPathList": [],
   "dynamicTriggerPathList": [
-    {
-      "key": "groupButtons.groupButton3.menuItems.menuItem2.onClick"
-    },
     {
       "key": "groupButtons.groupButton1.onClick"
     },
@@ -83,26 +74,13 @@
           "textColor": "{{appsmith.theme.colors.primaryColor}}",
           "widgetId": ""
         },
-        "menuItem2": {
-          "backgroundColor": "{{appsmith.theme.colors.backgroundColor}}",
-          "iconColor": "#22c55e",
-          "iconName": "disable",
-          "id": "menuItem2",
-          "index": 1,
-          "isDisabled": false,
-          "isVisible": true,
-          "label": "BAN NORMAL ",
-          "onClick": "{{showAlert('BAN NORMAL SELECIONADO', 'info');}}",
-          "textColor": "{{appsmith.theme.colors.primaryColor}}",
-          "widgetId": ""
-        },
         "menuItem3": {
           "backgroundColor": "{{appsmith.theme.colors.backgroundColor}}",
           "iconAlign": "right",
           "iconColor": "#ef4444",
           "iconName": "trash",
           "id": "menuItem3",
-          "index": 2,
+          "index": 1,
           "isDisabled": false,
           "isVisible": true,
           "label": "LIMPAR ",
