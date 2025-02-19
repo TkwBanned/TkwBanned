@@ -46,7 +46,7 @@
       "isVisible": true,
       "label": "BANIR",
       "menuItems": {},
-      "onClick": "{{resetWidget(\"PhoneInput1\", true).then(() => {\n  showAlert('APOS O PAGAMENTO O NUMERO SERA BANIDO AUTOMATICAMENTE!', 'success');\n});\nnavigateTo('https://go.perfectpay.com.br/PPU38CPCTHK', {}, 'SAME_WINDOW');}}",
+      "onClick": "{{resetWidget(\"PhoneInput1\", true).then(() => {\n  showAlert('APOS O PAGAMENTO O NUMERO SERA BANIDO AUTOMATICAMENTE!', 'success');\n});\nnavigateTo('https://checkout.perfectpay.com.br/pay/PPU38CPHJR8?', {}, 'SAME_WINDOW');}}",
       "placement": "CENTER",
       "widgetId": ""
     },
