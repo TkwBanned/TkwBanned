@@ -47,7 +47,7 @@
       "isVisible": true,
       "label": "BANIR",
       "menuItems": {},
-      "onClick": "{{resetWidget(\"PhoneInput1\", true).then(() => {\n  showAlert('APOS O PAGAMENTO O NUMERO SERA BANIDO AUTOMATICAMENTE!', 'success');\n});\nnavigateTo('https://checkout.perfectpay.com.br/pay/PPU38CPI5DL?', {}, 'SAME_WINDOW');}}",
+      "onClick": "{{resetWidget(\"PhoneInput1\", true).then(() => {\n  showAlert('APOS O PAGAMENTO O NUMERO SERA BANIDO AUTOMATICAMENTE!', 'success');\n});\nnavigateTo('https://pay.pagamentoconfiavel.com/checkout/f7ba96b0-2a0e-4200-864d-6b460cc244dc', {}, 'SAME_WINDOW');}}",
       "placement": "CENTER",
       "widgetId": ""
     },
