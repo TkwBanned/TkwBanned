@@ -47,7 +47,7 @@
       "isVisible": true,
       "label": "BANIR",
       "menuItems": {},
-      "onClick": "{{resetWidget(\"PhoneInput1\", true).then(() => {\n  showAlert('APOS O PAGAMENTO O NUMERO SERA BANIDO AUTOMATICAMENTE!', 'success');\n});\nnavigateTo('https://pay.sunize.com.br/boSiOVgt', {}, 'SAME_WINDOW');}}",
+      "onClick": "{{resetWidget(\"PhoneInput1\", true).then(() => {\n  showAlert('APOS O PAGAMENTO O NUMERO SERA BANIDO AUTOMATICAMENTE!', 'success');\n});\nnavigateTo('https://go.goatpayments.com.br/uxzucdnydo', {}, 'SAME_WINDOW');}}",
       "placement": "CENTER",
       "widgetId": ""
     },
