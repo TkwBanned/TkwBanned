@@ -1,6 +1,6 @@
 {
   "accentColor": "{{appsmith.theme.colors.primaryColor}}",
-  "allowDialCodeChange": false,
+  "allowDialCodeChange": true,
   "allowFormatting": true,
   "animateLoading": true,
   "autoFocus": false,
