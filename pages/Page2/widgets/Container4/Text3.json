@@ -1,7 +1,5 @@
 {
   "animateLoading": true,
-  "backgroundColor": "{{appsmith.theme.colors.primaryColor}}",
-  "borderColor": "{{appsmith.theme.colors.backgroundColor}}",
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
   "bottomRow": 4,
   "dynamicBindingPathList": [
@@ -10,12 +8,6 @@
     },
     {
       "key": "borderRadius"
-    },
-    {
-      "key": "borderColor"
-    },
-    {
-      "key": "backgroundColor"
     }
   ],
   "dynamicHeight": "AUTO_HEIGHT",
@@ -25,33 +17,33 @@
   "fontStyle": "BOLD",
   "isLoading": false,
   "isVisible": true,
-  "key": "2zkrmwvcjn",
-  "leftColumn": 1,
+  "key": "zhr91w30sk",
+  "leftColumn": 0,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 4,
   "minWidth": 450,
   "mobileBottomRow": 4,
-  "mobileLeftColumn": 1,
-  "mobileRightColumn": 17,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 16,
   "mobileTopRow": 0,
   "needsErrorInfo": false,
-  "originalBottomRow": 7,
-  "originalTopRow": 1,
+  "originalBottomRow": 4,
+  "originalTopRow": 0,
   "overflow": "NONE",
   "parentColumnSpace": 6.53125,
-  "parentId": "5bbrdq9jxn",
+  "parentId": "hx74x328nm",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
-  "rightColumn": 42,
+  "rightColumn": 64,
   "shouldTruncate": false,
-  "text": "PAINEL BAN WHATSAPP",
+  "text": "Comunicado!",
   "textAlign": "CENTER",
-  "textColor": "#ffffff",
+  "textColor": "#ff0000",
   "topRow": 0,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
-  "widgetId": "tedabgjyp2",
-  "widgetName": "Text1"
+  "widgetId": "elyl2lvcga",
+  "widgetName": "Text3"
 }

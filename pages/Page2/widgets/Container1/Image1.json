@@ -1,9 +1,9 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 15,
+  "bottomRow": 14,
   "boxShadow": "none",
-  "defaultImage": "https://th.bing.com/th/id/OIP.4Rubi9bW7Br_J-DQ6RaIfQHaHa?pid=ImgDet&w=193&h=193&c=7&dpr=1,8",
+  "defaultImage": "https://logospng.org/download/whatsapp/logo-whatsapp-verde-icone-ios-android-4096.png",
   "displayName": "Image",
   "dynamicBindingPathList": [
     {
@@ -22,24 +22,26 @@
   "isLoading": false,
   "isVisible": true,
   "key": "48ghegluye",
-  "leftColumn": 39,
+  "leftColumn": 42,
   "maxZoomLevel": 1,
   "mobileBottomRow": 13,
   "mobileLeftColumn": 49,
   "mobileRightColumn": 61,
   "mobileTopRow": 1,
   "objectFit": "cover",
+  "originalBottomRow": 40,
+  "originalTopRow": 27,
   "parentColumnSpace": 6.53125,
-  "parentId": "wegtau527i",
+  "parentId": "5bbrdq9jxn",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
-  "rightColumn": 63,
+  "rightColumn": 64,
   "tags": [
     "Media"
   ],
   "topRow": 0,
   "type": "IMAGE_WIDGET",
   "version": 1,
-  "widgetId": "albqhenifo",
+  "widgetId": "652bdmqios",
   "widgetName": "Image1"
 }

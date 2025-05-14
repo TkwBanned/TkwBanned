@@ -1,18 +1,13 @@
 {
   "animateLoading": true,
-  "backgroundColor": "#8b1887",
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 8,
-  "displayName": "Text",
+  "bottomRow": 15,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
     },
     {
       "key": "borderRadius"
-    },
-    {
-      "key": "textColor"
     }
   ],
   "dynamicHeight": "AUTO_HEIGHT",
@@ -20,47 +15,35 @@
   "fontFamily": "Poppins",
   "fontSize": "1rem",
   "fontStyle": "BOLD",
-  "hideCard": false,
-  "iconSVG": "https://appcdn.appsmith.com/static/media/icon.a47d6d5dbbb718c4dc4b2eb4f218c1b7.svg",
-  "isDeprecated": false,
   "isLoading": false,
   "isVisible": true,
-  "key": "ngkgny453b",
-  "leftColumn": 2,
+  "key": "zhr91w30sk",
+  "leftColumn": 0,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 4,
   "minWidth": 450,
-  "mobileBottomRow": 9,
-  "mobileLeftColumn": 12,
-  "mobileRightColumn": 28,
-  "mobileTopRow": 5,
-  "originalBottomRow": 8,
+  "mobileBottomRow": 4,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 16,
+  "mobileTopRow": 0,
+  "needsErrorInfo": false,
+  "originalBottomRow": 15,
   "originalTopRow": 4,
   "overflow": "NONE",
   "parentColumnSpace": 6.53125,
-  "parentId": "wegtau527i",
+  "parentId": "hx74x328nm",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
-  "rightColumn": 38,
-  "searchTags": [
-    "typography",
-    "paragraph",
-    "label"
-  ],
-  "shouldScrollContents": true,
+  "rightColumn": 64,
   "shouldTruncate": false,
-  "tags": [
-    "Suggested",
-    "Content"
-  ],
-  "text": "Stunizlav Modder",
+  "text": "Ao clicar em 'Banir', você declara estar ciente de que não nos responsabilizamos pelo uso que fizer da ferramenta, incluindo, mas não se limitando, ao banimento de números com a intenção de prejudicar ou favorecer terceiros.",
   "textAlign": "CENTER",
-  "textColor": "{{appsmith.theme.colors.backgroundColor}}",
+  "textColor": "#231F20",
   "topRow": 4,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
-  "widgetId": "zvz2zjyv1u",
-  "widgetName": "Text1Copy2"
+  "widgetId": "e7r3nuuox3",
+  "widgetName": "Text3Copy2"
 }

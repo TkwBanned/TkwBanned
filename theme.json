@@ -46,8 +46,8 @@
       "appBoxShadow": "none"
     },
     "colors": {
-      "backgroundColor": "#000",
-      "primaryColor": "#f4f4f5"
+      "backgroundColor": "#F8FAFC",
+      "primaryColor": "#04ff00"
     },
     "fontFamily": {
       "appFont": "Nunito Sans"
