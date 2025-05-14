@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 6,
+  "bottomRow": 8,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -13,12 +13,12 @@
   "dynamicHeight": "AUTO_HEIGHT",
   "dynamicTriggerPathList": [],
   "fontFamily": "Poppins",
-  "fontSize": "1.875rem",
+  "fontSize": "3rem",
   "fontStyle": "BOLD",
   "isLoading": false,
   "isVisible": true,
   "key": "2zkrmwvcjn",
-  "leftColumn": 11,
+  "leftColumn": 1,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 4,
   "minWidth": 450,
@@ -27,7 +27,7 @@
   "mobileRightColumn": 39,
   "mobileTopRow": 18,
   "needsErrorInfo": false,
-  "originalBottomRow": 6,
+  "originalBottomRow": 14,
   "originalTopRow": 1,
   "overflow": "NONE",
   "parentColumnSpace": 6.84375,
@@ -35,7 +35,7 @@
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
-  "rightColumn": 52,
+  "rightColumn": 63,
   "shouldTruncate": false,
   "text": "BAN WHATSAPP",
   "textAlign": "CENTER",
