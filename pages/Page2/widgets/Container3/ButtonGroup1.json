@@ -11,9 +11,6 @@
   },
   "dynamicBindingPathList": [
     {
-      "key": "groupButtons.groupButton3.buttonColor"
-    },
-    {
       "key": "groupButtons.groupButton3.menuItems.menuItem3.backgroundColor"
     },
     {
@@ -49,7 +46,7 @@
       "widgetId": ""
     },
     "groupButton3": {
-      "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+      "buttonColor": "#22c55e",
       "buttonType": "MENU",
       "iconAlign": "left",
       "iconName": "more",
