@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 32,
+  "bottomRow": 4,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -13,7 +13,7 @@
   "dynamicHeight": "AUTO_HEIGHT",
   "dynamicTriggerPathList": [],
   "fontFamily": "Poppins",
-  "fontSize": "1rem",
+  "fontSize": "1.25rem",
   "fontStyle": "BOLD",
   "isLoading": false,
   "isVisible": true,
@@ -27,23 +27,23 @@
   "mobileRightColumn": 16,
   "mobileTopRow": 0,
   "needsErrorInfo": false,
-  "originalBottomRow": 32,
-  "originalTopRow": 4,
+  "originalBottomRow": 4,
+  "originalTopRow": 0,
   "overflow": "NONE",
   "parentColumnSpace": 6.53125,
-  "parentId": "lolvmpojq8",
+  "parentId": "1o8lx48acs",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
   "rightColumn": 64,
   "shouldTruncate": false,
-  "text": "1. O pagamento é estritamente obrigatório para que o número seja banido.\n\n2. No momento do checkout, será solicitado o preenchimento de dados apenas para gerar a chave PIX de pagamento. Não é necessário fornecer informações reais. Caso prefira, clique em \"TELEGRAM\" e solicite dados fake, sem utilizar os seus.\n\n3. Todo o processo é 100% anônimo e automatizado. Não divulgamos nomes, dados ou qualquer tipo de informação — realizamos apenas o banimento solicitado.",
+  "text": "Pagamento ( CHECKOUT )",
   "textAlign": "CENTER",
-  "textColor": "#231F20",
-  "topRow": 4,
+  "textColor": "#ff0000",
+  "topRow": 0,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
-  "widgetId": "km2r3qdkuz",
-  "widgetName": "Text3CopyCopy1"
+  "widgetId": "8ee0rf2mzt",
+  "widgetName": "Text3Copy2Copy"
 }

@@ -1,49 +1,62 @@
 {
   "animateLoading": true,
+  "backgroundColor": "{{appsmith.theme.colors.primaryColor}}",
+  "borderColor": "{{appsmith.theme.colors.backgroundColor}}",
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 32,
+  "bottomRow": 6,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
     },
     {
       "key": "borderRadius"
+    },
+    {
+      "key": "borderColor"
+    },
+    {
+      "key": "backgroundColor"
     }
   ],
   "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicPropertyPathList": [
+    {
+      "key": "fontSize"
+    }
+  ],
   "dynamicTriggerPathList": [],
   "fontFamily": "Poppins",
-  "fontSize": "1rem",
+  "fontSize": "1.25rem",
   "fontStyle": "BOLD",
   "isLoading": false,
   "isVisible": true,
-  "key": "zhr91w30sk",
+  "key": "2zkrmwvcjn",
   "leftColumn": 0,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 4,
   "minWidth": 450,
   "mobileBottomRow": 4,
-  "mobileLeftColumn": 0,
-  "mobileRightColumn": 16,
+  "mobileLeftColumn": 1,
+  "mobileRightColumn": 17,
   "mobileTopRow": 0,
   "needsErrorInfo": false,
-  "originalBottomRow": 32,
-  "originalTopRow": 4,
+  "originalBottomRow": 6,
+  "originalTopRow": 0,
   "overflow": "NONE",
   "parentColumnSpace": 6.53125,
-  "parentId": "lolvmpojq8",
+  "parentId": "656xct0m84",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
-  "rightColumn": 64,
+  "rightColumn": 41,
   "shouldTruncate": false,
-  "text": "1. O pagamento é estritamente obrigatório para que o número seja banido.\n\n2. No momento do checkout, será solicitado o preenchimento de dados apenas para gerar a chave PIX de pagamento. Não é necessário fornecer informações reais. Caso prefira, clique em \"TELEGRAM\" e solicite dados fake, sem utilizar os seus.\n\n3. Todo o processo é 100% anônimo e automatizado. Não divulgamos nomes, dados ou qualquer tipo de informação — realizamos apenas o banimento solicitado.",
+  "text": "PAINEL DESBAN WHATSAPP",
   "textAlign": "CENTER",
-  "textColor": "#231F20",
-  "topRow": 4,
+  "textColor": "#ffffff",
+  "topRow": 0,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
-  "widgetId": "km2r3qdkuz",
-  "widgetName": "Text3CopyCopy1"
+  "widgetId": "zb1m3q5in8",
+  "widgetName": "Text1"
 }
