@@ -1,0 +1,52 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 45,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "1rem",
+  "fontStyle": "BOLD",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "tis8q70d3e",
+  "leftColumn": 0,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 4,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 16,
+  "mobileTopRow": 0,
+  "needsErrorInfo": false,
+  "originalBottomRow": 45,
+  "originalTopRow": 0,
+  "overflow": "NONE",
+  "parentColumnSpace": 6.0782470703125,
+  "parentId": "w073sqh3a3",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 64,
+  "shouldTruncate": false,
+  "text": "Esta função está disponível apenas no Painel VIP (Painel Slavoy)\n\nVantagens do VIP:\n\n1-Banimentos ilimitados\n2-Desbanimentos ilimitados\n3-Acesso vitalício ao painel\n4-Banir grupos\n5-Suporte 24 horas + atualizações recorrentes\n6-Banimento em massa (vários números ao mesmo tempo)\n7-Desbanimento automático com apenas um clique\n8-Acesso antecipado a novas ferramentas e funções exclusivas\n9-Relatórios detalhados de banimentos e desbanimentos\n10-Sistema otimizado para maior velocidade de execução\n11-Proteção contra travamentos e falhas durante o uso\n12-Acesso a funcionalidades beta antes do público geral",
+  "textAlign": "LEFT",
+  "textColor": "#ff0000",
+  "topRow": 0,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "t9js6fleat",
+  "widgetName": "Text5"
+}

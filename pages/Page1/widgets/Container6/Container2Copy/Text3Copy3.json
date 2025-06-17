@@ -1,10 +1,13 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 30,
+  "bottomRow": 11,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
     },
     {
       "key": "borderRadius"
@@ -12,12 +15,12 @@
   ],
   "dynamicHeight": "AUTO_HEIGHT",
   "dynamicTriggerPathList": [],
-  "fontFamily": "Poppins",
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
   "fontSize": "1rem",
   "fontStyle": "BOLD",
   "isLoading": false,
   "isVisible": true,
-  "key": "zhr91w30sk",
+  "key": "3s6z5jsu11",
   "leftColumn": 0,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 4,
@@ -27,23 +30,23 @@
   "mobileRightColumn": 16,
   "mobileTopRow": 0,
   "needsErrorInfo": false,
-  "originalBottomRow": 30,
-  "originalTopRow": 4,
+  "originalBottomRow": 11,
+  "originalTopRow": 0,
   "overflow": "NONE",
-  "parentColumnSpace": 6.53125,
-  "parentId": "lolvmpojq8",
+  "parentColumnSpace": 6.42431640625,
+  "parentId": "hyyc5u2qdn",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
   "rightColumn": 64,
   "shouldTruncate": false,
-  "text": "1. O pagamento é estritamente obrigatório para que o número seja banido.\n\n2. No momento do checkout, será solicitado o preenchimento de dados apenas para gerar a chave PIX de pagamento. Não é necessário fornecer informações reais. Caso prefira, clique em \"FAKE\" e copie os dados e use pra pagamento.\n\n3. Todo o processo é 100% anônimo e automatizado. Não divulgamos nomes, dados ou qualquer tipo de informação — realizamos apenas o banimento solicitado.",
+  "text": "Olá! Insira o número alvo e o seu e-mail do Gmail. Solicite o código via chamada e, em seguida, clique em 'Invadir'. O painel acessará a caixa postal do número alvo, obterá o código e o enviará para o seu Gmail no formato (000-000).",
   "textAlign": "CENTER",
-  "textColor": "#231F20",
-  "topRow": 4,
+  "textColor": "#231f20",
+  "topRow": 0,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
-  "widgetId": "km2r3qdkuz",
-  "widgetName": "Text3CopyCopy1"
+  "widgetId": "ow240n9w3k",
+  "widgetName": "Text3Copy3"
 }
