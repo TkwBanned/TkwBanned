@@ -27,7 +27,7 @@
   "mobileRightColumn": 63,
   "mobileTopRow": 18,
   "needsErrorInfo": false,
-  "onClick": "{{navigateTo('https://go.goatpayments.com.br/ino3ax4tmz', {}, 'SAME_WINDOW');}}",
+  "onClick": "{{navigateTo('https://global.tribopay.com.br/sekod9iiai', {}, 'SAME_WINDOW');}}",
   "originalBottomRow": 55,
   "originalTopRow": 51,
   "parentId": "fwvj18j3m5",
